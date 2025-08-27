@@ -2,10 +2,21 @@
 
 
 
+<!DOCTYPE html>
+<html lang="ar">
 <head>
-<meta name="google-site-verification" content="8ldsz3RctG3Od9QrEK3ohmdAaH8IHNxop5NZQ4XHqu8" />
-  <!-- باقي الأكواد -->
+  <meta charset="UTF-8">
+  <title>موقعي</title>
+
+  <!-- Google Site Verification -->
+  <meta name="google-site-verification" content="8ldsz3RctG3Od9QrEK3ohmdAaH8IHNxop5NZQ4XHqu8" />
+
+  <!-- أي أكواد أخرى -->
 </head>
+<body>
+  <h1>مرحبا بك في موقعي</h1>
+</body>
+</html>
 
 
 <h3 align="center">AI & Data Science Researcher | Python Developer | Deep Learning & Multimodal AI Enthusiast</h3>
